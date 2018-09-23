@@ -1,0 +1,30 @@
+Application                                 | org.mlayer.batterydrain
+Version Name                                | 1.0                    
+Version Code                                | 1                      
+UID                                         | 10084                  
+Device estimated power use                  | 3.97%                  
+Foreground                                  | 5 times over 9s 828ms  
+CPU user time                               | 28s 435ms              
+CPU system time                             | 14s 915ms              
+Device estimated power use due to CPU usage | 0.04%                  
+
+Network Information:
+Mobile data transferred                      | 1.08 MB total (0.79 MB received, 296.02 KB transmitted)       
+Mobile data transferred in the background    | 0.00 bytes total (0.00 bytes received, 0.00 bytes transmitted)
+Wifi data transferred                        | 0.00 bytes total (0.00 bytes received, 0.00 bytes transmitted)
+Wifi data transferred in the background      | 0.00 bytes total (0.00 bytes received, 0.00 bytes transmitted)
+Mobile packets transferred                   | 9376 total (4940 received, 4436 transmitted)                  
+Mobile packets transferred in the background | NaN total (undefined received, undefined transmitted)         
+Wifi packets transferred                     | 0 total (0 received, 0 transmitted)                           
+Wifi packets transferred in the background   | NaN total (undefined received, undefined transmitted)         
+Mobile active time                           | 28m 59s 317.40ms                                              
+Mobile active count                          | 59                                                            
+
+Wakelocks:
+Wakelock Name | Full Time | Full Count | Minimum total partial Time | Partial Count | Window Time | Window Count
+*alarm*       |           | 0          | 837ms                      | 18            |             | 0           
+*launch*      |           | 0          |                            | 0             |             | 0           
+
+Process info:
+Process Name            | User Time | System Time | Foreground Time | # Starts | # ANRs | # Crashes
+org.mlayer.batterydrain | 27s 890ms | 15s 880ms   | 1s 320ms        | 0        | 0      | 0        

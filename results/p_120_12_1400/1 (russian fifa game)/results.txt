@@ -1,0 +1,43 @@
+Application                                 | org.mlayer.batterydrain
+Version Name                                | 1.0                    
+Version Code                                | 1                      
+UID                                         | 10250                  
+Device estimated power use                  | 11.99%                 
+Foreground                                  | 8 times over 24s 502ms 
+CPU user time                               | 1m 29s 671ms           
+CPU system time                             | 28s 526ms              
+Device estimated power use due to CPU usage | 0.00%                  
+
+Network Information:
+Mobile data transferred                      | 0.97 MB total (0.72 MB received, 254.26 KB transmitted)           
+Mobile data transferred in the background    | 0.96 MB total (0.72 MB received, 253.87 KB transmitted)           
+Wifi data transferred                        | 0.00 bytes total (0.00 bytes received, 0.00 bytes transmitted)    
+Wifi data transferred in the background      | 0.00 bytes total (0.00 bytes received, 0.00 bytes transmitted)    
+Mobile packets transferred                   | 8713 total (4375 received, 4338 transmitted)                      
+Mobile packets transferred in the background | 8698 total (4366 received, 4332 transmitted)                      
+Wifi packets transferred                     | 0 total (0 received, 0 transmitted)                               
+Wifi packets transferred in the background   | 0 total (0 received, 0 transmitted)                               
+Mobile active time                           | 1h 5m 36s 738ms                                                   
+Mobile active count                          | 30                                                                
+Number of mobile radio wakeups               | 136                                                               
+Modem idle time                              | 0s                                                                
+Modem transfer time                          | 4m 44s 329ms total (4m 38s 492ms receiving, 5s 837ms transmitting)
+
+Wakelocks:
+Wakelock Name | Full Time | Full Count | Total Partial Time | Partial Count | Window Time | Window Count
+*alarm*       |           | 0          | 26s 393ms          | 99            | 26s 393ms   | 99          
+*launch*      |           | 0          | 0ms                | 0             |             | 0           
+
+Wakeup alarm info:
+Wakeup Alarm Name                          | Count
+*walarm*:org.mlayer.batterydrain/.Receiver | 117  
+
+Process info:
+Time spent on top                             | 27s 196ms      
+Time spent running actively in the background | 8s 388ms       
+Time spent cached                             | 6h 48m 4s 456ms
+
+Process info:
+Process Name            | User Time    | System Time | Foreground Time | # Starts | # ANRs | # Crashes
+org.mlayer.batterydrain | 1m 25s 920ms | 26s 740ms   | 5s 100ms        | 1        | 0      | 0        
+*wakelock*              | 978ms        | 1s 309ms    |                 | 0        | 0      | 0        
